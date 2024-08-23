@@ -143,7 +143,7 @@ inputs:
     
   breaking-bumps-minor:
     description: 'On Breaking Change, bump Minor instead of Major version'
-    default: 'true'
+    default: 'false'
     required: false
 
   pre-release:
